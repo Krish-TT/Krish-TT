@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @Krish-TT
-- 👀 I’m interested in Myself
+- 👀 I’m interested in maybe you?
 - 🌱 I’m currently learning Badminton, Kotlin, C, C++ programming etc. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on learning about new programming languages, enjoying sports, having fun.
+- 📫 How to reach me : Instagram id in bio
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Currently no fun in my life
-
-<!---
-Krish-TT/Krish-TT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: You are wasting your time here.
